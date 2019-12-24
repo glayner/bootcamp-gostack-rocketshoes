@@ -1,3 +1,4 @@
 <resources>
+    <string name="CodePushDeploymentKey">425023f4-b2b0-4494-8ee1-3adb515d1adf</string>
     <string name="app_name">RocketShoes</string>
 </resources>
